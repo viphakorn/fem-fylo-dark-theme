@@ -28,7 +28,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/fylo-dark-theme-landing-page-solution-7KYw30VlPi)
-- Live Site URL: [Github](https://viphakorn.github.io/fylo-dark-theme-landing-page-master/)
+- Live Site URL: [Github Pages](https://viphakorn.github.io/fem-fylo-dark-theme/)
 
 ## My process
 
